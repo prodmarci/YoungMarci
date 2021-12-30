@@ -1,6 +1,5 @@
-- Hi, I’m Marci_
-- I’m interested in algorythmic problems.
-- I’m currently learning Python, HTML, CSS.
+- Currently learning Java and Python.
+- Wizzardstuff plugin dev.
 - Contact me: marcibiznes@o2.pl
 
 <!---
