@@ -1,5 +1,4 @@
-- Currently learning Java and Python.
-- Wizzardstuff plugin dev.
+- Currently learning Javascript and C++.
 - Contact me: marcibiznes@o2.pl
 
 <!---
